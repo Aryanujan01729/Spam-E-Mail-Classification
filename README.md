@@ -6,21 +6,21 @@ This project demonstrates a simple email spam detection system using neural netw
 The dataset used for training the model is stored in a CSV file named emails.csv. It contains two columns: "Email Text" and "Prediction" where "Prediction" indicates whether an email is spam (1) or not spam (0).
 
 # Dependencies
-Python 3.x
+* Python 3.x
 
-numpy
+* numpy
 
-matplotlib
+* matplotlib
 
-pandas
+* pandas
 
-keras
+* keras
 
-scikit-learn
+* scikit-learn
 
-imbalanced-learn (for SMOTE oversampling)
+* imbalanced-learn (for SMOTE oversampling)
 
-Install dependencies using pip:
+* Install dependencies using pip:
 
 
 pip install numpy matplotlib pandas keras scikit-learn imbalanced-learn
