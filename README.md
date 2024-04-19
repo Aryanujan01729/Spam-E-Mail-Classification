@@ -7,12 +7,19 @@ The dataset used for training the model is stored in a CSV file named emails.csv
 
 # Dependencies
 Python 3.x
+
 numpy
+
 matplotlib
+
 pandas
+
 keras
+
 scikit-learn
+
 imbalanced-learn (for SMOTE oversampling)
+
 Install dependencies using pip:
 
 
